@@ -31,7 +31,7 @@ class Cubo {
     
     //devuelve la Arista $nArista de la cara $nCara
     private function getArista($nCara,$nArista){
-        
+        //esto es un comentario
     }
        
     }
